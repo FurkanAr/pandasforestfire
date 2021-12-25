@@ -10,7 +10,13 @@ First, if there is duplicate data, this data is deleted from the file. If "null"
 
 *Since the month information is given in Portuguese in the data used, the month information is translated into English.*
 
-First of all, the amount of fire per month is given in the image: 
+The data set used includes the total fires between 1998 and 2017. The spread over the years is shown in image.
+
+![Figure_2](https://user-images.githubusercontent.com/63981707/147387492-b9a9c30f-8c6b-4034-afd8-8d9d18408403.png)
+
+
+The amount of fire per month is given in the image: 
 
 ![Figure_1](https://user-images.githubusercontent.com/63981707/147387432-580a72bb-26f2-4b9f-9a9a-752c9aa5c0dd.png)
-                                        Figure-1
+                                        
+
